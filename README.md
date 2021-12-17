@@ -2,7 +2,7 @@
 This is a simple android project I've created using Intellij.
 There are many simple actions I've included that an android applications frequently have.
 
-![2021-12-16 21 19 30](https://user-images.githubusercontent.com/73158697/146494147-10419af7-cebf-45ad-a5dc-580141c60084.gif)
+![2021-12-16 21 19 30 copy](https://user-images.githubusercontent.com/73158697/146494965-84fa7b63-6798-45d3-974f-f81e2e552e4d.gif)
 - Instead of normal qwer keyboard, I've used a phone number keypad for phone number input.
 - There are hints for customers to input their phone number in the text box.
 - once the customer presses submit, the keyboard would close automatically.
